@@ -50,7 +50,7 @@
     "core-js": "^2.4.1",
     "css-loader": "^0.23.1",
     "dsv-loader": "^1.1.0",
-    "eslint": "^3.1.1",
+    "eslint": "^4.18.2",
     "eslint-loader": "^1.4.1",
     "extract-text-webpack-plugin": "^1.0.1",
     "file-loader": "^0.9.0",
